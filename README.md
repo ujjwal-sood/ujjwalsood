@@ -1,5 +1,15 @@
-### Hi there 👋
-###### Hello
+# Hi there 👋 , thanks for visiting
+
+
+## Here are some ideas to get you started:
+### - 🔭 I’m currently working on - My Data Structures and Algorithms by coding on Leetcode Daily. Check out https://leetcode.com/pahadicoder/.
+### - 🌱 I’m currently learning  -  Learning Django for building one web app.
+### - 👯 I’m looking to collaborate on - Any Front end or Back end service and also on coding problems.
+### - 🤔 I’m looking for help with - Learning industry standards and new technologies.
+### - 💬 Ask me about - Anything.
+### - 📫 How to reach me: - Email: ujjwal.sood95@gmail.com, ujjwalsood@iiitdmj.ac.in
+
+
 <!--
 **ujjwalsood95/ujjwalsood95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
