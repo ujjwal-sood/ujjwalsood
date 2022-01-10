@@ -2,12 +2,12 @@
 
 
 ## Here are some ideas to get you started:
-### - 🔭 I’m currently working on - My Data Structures and Algorithms by coding on Leetcode Daily. Check out https://leetcode.com/pahadicoder/.
-### - 🌱 I’m currently learning  -  Learning Django for building Web Apps.
+### - 🔭 I’m currently working as - Software Engineer at Technogram Solutions.
+### - 🌱 I’m currently learning  -  System Design.
 ### - 👯 I’m looking to collaborate on - Any Front end or Back end service and also on coding problems.
 ### - 🤔 I’m looking for help with - Learning industry standards and new technologies.
 ### - 💬 Ask me about - Anything.
-### - 📫 How to reach me: - Email: ujjwal.sood95@gmail.com, ujjwalsood@iiitdmj.ac.in
+### - 📫 How to reach me: - Email: ujjwal.sood95@gmail.com, ujjwalsood@iiitdmj.ac.in, Check out https://leetcode.com/pahadicoder/.
 
 
 <!--
